@@ -40,4 +40,4 @@ jobs:
     ## Run all pytests by inovking the `pytest command`
     - name: Test with pytest
       run: |
-        pytest
+        pytest solutions/python-helloworld/test_with_pytest.py
