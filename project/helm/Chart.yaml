@@ -1,0 +1,9 @@
+apiVersion: v1
+name: techtrends
+description: Techtrends Deployment
+keywords:
+- techtrends
+version: 1.0.0
+maintainers:
+- name: jayapavan
+  email: jayapavanpd@gmail.com
